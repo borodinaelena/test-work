@@ -1,0 +1,25 @@
+{
+  "name": "test-work",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node bin/www"
+  },
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "cookie-parser": "1.4.3",
+    "debug": "2.2.0",
+    "express": "4.13.4",
+    "morgan": "^1.8.1",
+    "node-gyp": "^3.5.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-inject": "^4.1.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-uglifycss": "^1.0.6",
+    "gulp-uglifyjs": "^0.6.2"
+  }
+}
